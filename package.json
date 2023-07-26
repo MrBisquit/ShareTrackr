@@ -1,0 +1,30 @@
+{
+  "name": "sharetrackr",
+  "version": "1.0.0",
+  "description": "ShareTrackr: Optimize marketing campaigns with trackable URLs. Capture data from shared links and gain insights for informed decisions. Simplify marketing and boost results.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrbisquit/ShareTrackr.git"
+  },
+  "keywords": [
+    "Social media",
+    "Analytics",
+    "Marketing",
+    "Campaigns"
+  ],
+  "author": "MrBisquit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrbisquit/ShareTrackr/issues"
+  },
+  "homepage": "https://github.com/mrbisquit/ShareTrackr#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-useragent": "^1.0.15",
+    "geoip-lite": "^1.4.7"
+  }
+}
